@@ -45,7 +45,7 @@ Following are some snippets I used to create the design:
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	width: 100vw;
+	width: 100%;
 	height: 100vh;
 }
 
